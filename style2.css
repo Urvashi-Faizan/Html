@@ -1,0 +1,17 @@
+*{
+    mergin:0;
+    padding:0;
+    font-family: sans-serif;
+}
+.hero
+{
+   
+    border-style: dashed;
+    color: #fbfcfd;
+    background-color: #fbfcfd;
+}
+.second
+{
+    border-style: dashed;
+    color: #214f7e;
+}
